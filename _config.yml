@@ -20,7 +20,7 @@ title                    : "태렬이의 데이터 분석 일기"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "TaeRyeol"
-description              : "An amazing website."
+description              : "발전하는 모습을 보기 위해.."
 url                      : "https://Tae-Ryeol.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "TaeRyeol"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "데이터로부터 **재밌는** 인사이트를 보여주고 싶어요."
   location         : "Somewhere"
   email            :
   links:
